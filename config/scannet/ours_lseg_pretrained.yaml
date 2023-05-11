@@ -42,7 +42,7 @@ TEST:
   test_workers: 8
   test_gpu: [0]
   test_batch_size: 1
-  test_repeats: 5
+  test_repeats: 1
   model_path: 'https://cvg-data.inf.ethz.ch/openscene/models/scannet_lseg.pth.tar'
   save_folder:
 

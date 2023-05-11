@@ -1,4 +1,4 @@
-echo "This script downloads pre-processed datasets used in the OpenScene project."
+echo "This script downloads pre-processed dat/home/lsy/t72/openscene_dataasets used in the OpenScene project."
 echo "Choose from the following options:"
 echo "0 - ScanNet 3D (point clouds with GT semantic labels)"
 echo "1 - ScanNet 2D (RGB-D images with camera poses)"
